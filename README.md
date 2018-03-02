@@ -8,6 +8,8 @@
 
 Using this app you can keep a journal
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/StevenProg/Journal?branch=master)](https://bettercodehub.com/)
+
 ![alt text](doc/Journal.jpg " ")
 
 
