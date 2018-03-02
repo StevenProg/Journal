@@ -8,7 +8,7 @@
 
 Using this app you can keep a journal
 
-![alt text](doc/journal.jpg " ")
+![alt text](doc/Journal.jpg " ")
 
 
 Created by Steven Schoenmaker(10777679)
